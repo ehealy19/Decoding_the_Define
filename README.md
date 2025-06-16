@@ -2,7 +2,7 @@
 DSAN6600 Project Group #4\
 Sophia Rutman, Courtney Green, Lizzie Healy, Caroline Delva
 
-**PLEASE NOTE THIS PROJECT WAS ORIGINALLY BASED ON A REPOSITORY COMPLETED AS PART OF DSAN6600 AT GEORGETOWN UNIVERSITY. IT HAS BEEN COPIED TO MY PERSONAL GITHUB FOR VIEWING PURPOSES.**
+**Please note this project was orginally completed as part of DSAN6600 at Georgetown University. The repo has been copied to my personal GitHub for viewing purposes.**
 
 ## Purpose
 The purpose of this project was to test three machine learning algorithms on their ability to classify relgious affliation groups. The models were each trained and tested on a survey conducted by the Pew Research Center entitled _Religious Landscape Study_, which aimed to understand the state of religion across the United States. 
